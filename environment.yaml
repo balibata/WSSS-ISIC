@@ -1,0 +1,8 @@
+name: clip-es-test
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+prefix: /blue/weishao/lim47.vanderbilt/.conda/envs/clip-es-test
