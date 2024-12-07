@@ -27,3 +27,6 @@ python eval_cam_with_crf.py --cam_out_dir ./output/isic/cams2/ --pseudo_mask_sav
 ```
 python train_with_mask.py
 ```
+
+## Acknowledgement
+The code is based on CLIP-ES , we thank the authors for their great work.
