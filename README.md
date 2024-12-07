@@ -5,7 +5,7 @@ This is the repository for final project "Weakly Supervised Semantic Segmentatio
 ```
 conda env create -f environment.yaml
 ```
-Since our code are adapted and modified from https://github.com/linyq2117/CLIP-ES, we also encourage you to do the following:
+Since our code are adapted and modified from https://github.com/linyq2117/CLIP-ES, we also encourage you to do the following and replace some key files with our files:
 ```
 git clone https://github.com/linyq2117/CLIP-ES.git
 ```
