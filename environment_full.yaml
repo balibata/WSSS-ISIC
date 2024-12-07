@@ -1,4 +1,4 @@
-name: clip-es-test
+name: WSSS-ISIC
 channels:
   - conda-forge
   - bioconda
