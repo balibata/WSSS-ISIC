@@ -9,6 +9,8 @@ Since our code are adapted and modified from https://github.com/linyq2117/CLIP-E
 ```
 git clone https://github.com/linyq2117/CLIP-ES.git
 ```
+## Dataset download
+You can find the data from https://challenge.isic-archive.com/data/#2018 and download the Task3 corresponding files
 
 ## Generate CAMs
 You can generate CAMS by running:
